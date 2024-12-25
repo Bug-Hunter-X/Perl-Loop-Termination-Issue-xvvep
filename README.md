@@ -1,0 +1,1 @@
+This repository contains a Perl code example that showcases a common error in loop control.  The 'bug.pl' file contains the problematic code, which prematurely terminates a loop using the 'last' statement.  The 'bugSolution.pl' file provides a corrected version.
